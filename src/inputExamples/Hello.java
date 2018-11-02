@@ -6,7 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		int age;
 		System.out.println(age=100);
-		System.out.println(age);
+		System.out.println("Just changing something to get a WIP");
 	}
 
 }
